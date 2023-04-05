@@ -1,0 +1,12 @@
+{
+  "name": "example-lambda",
+  "version": "1.0.0",
+  "description": "An example Node.js Lambda function",
+  "main": "handler.js",
+  "dependencies": {
+    "aws-sdk": "^2.974.0"
+  },
+  "devDependencies": {
+    "aws-sdk-mock": "^5.0.0"
+  }
+}
